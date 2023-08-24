@@ -1,13 +1,14 @@
-## Hi there 👋
+## Welcome to ProtocolX Network (PRUX) 👋
 
-**Here are some ideas to get you started:**
+Our mission is to bring together the best of the two largest blockchains and make security and speed possible on a single blockchain, in addition to creating a range of possibilities with web3. bringing adoption above any other blockchain.
 
-🙋‍♀️ A short introduction - what is your organization all about?
+Our network accepts any and all updates that happen on the BITCOIN and ETHERIUM network, facilitating a multiverse of possibilities.
 
-🌈 Contribution guidelines - how can the community get involved?
+With our network it is possible:
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+- Use WEB3 with all its strength and security to create Dapps in every niche, your mind is your barrier.
+- Creation of fungible and non-fungible TOKENS.
+- Staking with very small balances online or offline reducing electricity usage and consequently helping our worldwide ecosystem.
+- having a node running and maintaining a decentralized network, not allowing government supervision to extract fees from us.
 
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Our network comes to unite the world to WEB3.
